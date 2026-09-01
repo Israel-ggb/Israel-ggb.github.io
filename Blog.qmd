@@ -1,0 +1,6 @@
+---
+title: "Articles"
+format: html
+---
+
+This will be the articles page.
