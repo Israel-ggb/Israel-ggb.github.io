@@ -1,5 +1,5 @@
 ---
-title: "ALOKEME Israel"
+title: "ALOKEME Israël"
 image: Israel_photo.jpg
 about:
   template: jolla
