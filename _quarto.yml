@@ -9,7 +9,7 @@ website:
   navbar:
     left:
       - text: "Home"
-        file: Index.qmd
+        file: index.qmd
       - text: "Portfolio"
         file: Portfolio.qmd
       - text: "CV"
