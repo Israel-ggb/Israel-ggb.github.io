@@ -6,14 +6,17 @@ website:
   description: "A blog built with Quarto"
   site-url:  https://israel-ggb.github.io # you must change this appropriately for RSS feeds to work properly
   title: "ALOKEME Israel"
+  page-footer: "© 2026 ALOKEME Israel. All rights reserved|Build with Quarto."
   navbar:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Portfolio"
-        file: Portfolio.qmd
+      - text: "Blog"
+        file: Blog.qmd
       - text: "CV"
         file: CV.qmd 
+      - text: "Coding projects"
+        file: coding.qmd
     right:
       - icon: github
         href: https://github.com/Israel-ggb
