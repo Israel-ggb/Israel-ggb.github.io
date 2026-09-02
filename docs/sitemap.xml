@@ -9,8 +9,8 @@
     <lastmod>2026-09-01T20:43:40.548Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/Index.html</loc>
-    <lastmod>2026-09-01T20:43:40.706Z</lastmod>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2026-09-02T14:27:41.437Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/Blog.html</loc>
@@ -31,5 +31,9 @@
   <url>
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
     <lastmod>2026-08-27T21:58:37.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://israel-ggb.github.io/index.html</loc>
+    <lastmod>2026-09-02T14:27:41.437Z</lastmod>
   </url>
 </urlset>
