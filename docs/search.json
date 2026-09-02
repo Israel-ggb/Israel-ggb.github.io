@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/microsporidia_mb_for_malaria_vector_control/index.html",
+    "href": "posts/microsporidia_mb_for_malaria_vector_control/index.html",
     "title": "Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes.",
     "section": "",
     "text": "A new host.\n\n\n\n\n\n\n\nSource: Gendrin et al., 2022\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "Portfolio.html",
-    "href": "Portfolio.html",
-    "title": "My portfolio",
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "my_website",
     "section": "",
-    "text": "Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes.\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 28, 2026\n\n\nALOKEME Israel\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 27, 2026\n\n\nHarlow Malloc\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ALOKEME Israel",
-    "section": "",
-    "text": "I’m Israël Alokeme, an early-career researcher in emerging infectious diseases and medical entomology. My research interests focus on mosquito–microbiota–pathogen interactions, vector-borne diseases, and the development of data-driven approaches for disease surveillance and control. With research experience across Africa, Europe, and South America, I combine field entomology, molecular biology, microbiome research, bioinformatics, and data analysis. I’m particularly interested in translating scientific knowledge into practical solutions for public health, especially in resource-limited settings."
-  },
-  {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "Articles",
-    "section": "",
-    "text": "This will be the articles page."
+    "text": "Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes.\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 28, 2026\n\n\nALOKEME Israel\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -35,17 +21,24 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index_old.html",
-    "href": "index_old.html",
-    "title": "my_website",
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Articles",
     "section": "",
-    "text": "Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes.\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 28, 2026\n\n\nALOKEME Israel\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 27, 2026\n\n\nHarlow Malloc\n\n\n\n\n\nNo matching items"
+    "text": "This will be the articles page."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ALOKEME Israel",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Israël Alokeme, an early-career researcher in emerging infectious diseases and medical entomology. My research interests focus on mosquito–microbiota–pathogen interactions, vector-borne diseases, and the development of data-driven approaches for disease surveillance and control. With research experience across Africa, Europe, and South America, I combine field entomology, molecular biology, microbiome research, bioinformatics, and data analysis. I’m particularly interested in translating scientific knowledge into practical solutions for public health, especially in resource-limited settings."
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "My portfolio",
+    "section": "",
+    "text": "Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes.\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 28, 2026\n\n\nALOKEME Israel\n\n\n\n\n\nNo matching items"
   }
 ]

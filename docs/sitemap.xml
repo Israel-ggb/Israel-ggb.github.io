@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-09-01T13:42:27.034Z</lastmod>
+    <loc>https://israel-ggb.github.io/posts/microsporidia_mb_for_malaria_vector_control/index.html</loc>
+    <lastmod>2026-09-02T15:25:03.900Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/Portfolio.html</loc>
-    <lastmod>2026-09-01T20:43:40.548Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-09-02T14:27:41.437Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/Blog.html</loc>
-    <lastmod>2026-08-27T22:46:27.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-08-28T09:18:57.331Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/CV.html</loc>
-    <lastmod>2026-09-01T20:43:40.497Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/index_old.html</loc>
+    <loc>https://israel-ggb.github.io/index_old.html</loc>
     <lastmod>2026-08-27T22:29:45.248Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2026-08-27T21:58:37.646Z</lastmod>
+    <loc>https://israel-ggb.github.io/CV.html</loc>
+    <lastmod>2026-09-01T20:43:40.497Z</lastmod>
+  </url>
+  <url>
+    <loc>https://israel-ggb.github.io/about.html</loc>
+    <lastmod>2026-08-28T09:18:57.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://israel-ggb.github.io/Blog.html</loc>
+    <lastmod>2026-08-27T22:46:27.504Z</lastmod>
   </url>
   <url>
     <loc>https://israel-ggb.github.io/index.html</loc>
     <lastmod>2026-09-02T14:27:41.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://israel-ggb.github.io/Portfolio.html</loc>
+    <lastmod>2026-09-01T20:43:40.548Z</lastmod>
   </url>
 </urlset>

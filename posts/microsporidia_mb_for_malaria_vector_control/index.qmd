@@ -2,7 +2,7 @@
 title: "Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes."
 author: "ALOKEME Israel"
 date: "2026-08-28"
-categories: [news]
+categories: [news] 
 ---
 
 A new host.
