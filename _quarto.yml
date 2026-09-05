@@ -20,6 +20,8 @@ website:
     right:
       - icon: github
         href: https://github.com/Israel-ggb
+    website:
+  google-analytics: "G-ST0K6CSFSP"
 format:
   html:
     theme:
