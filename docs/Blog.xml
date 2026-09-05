@@ -10,36 +10,55 @@
 <atom:link href="https://israel-ggb.github.io/Blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Thu, 27 Aug 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 22:00:00 GMT</lastBuildDate>
 <item>
-  <title>Microsporidia MB or how a natural microbe can block malaria transmission in mosquitoes.</title>
+  <title>How a Group of Students Turned a Thesis Question into a Campus-Wide Movement Against Vector-Borne Diseases ?</title>
   <dc:creator>ALOKEME Israel</dc:creator>
-  <link>https://israel-ggb.github.io/posts/microsporidia_mb_for_malaria_vector_control/</link>
+  <link>https://israel-ggb.github.io/posts/students-malaria-awareness-campus-benin/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>A new host.</p>
+<p>As students or ordinary citizens, we may often wonder what contribution we can make to solving health problems that far exceed our sphere of influence. In this article, I discuss how a group of students from a biology department was able to turn a question into action within their university</p>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><a href="https://www.frontiersin.org/research-topics/13719/microbiota-a-consequential-third-wheel-in-the-mosquito-pathogen-relationship/magazine"><img src="https://israel-ggb.github.io/posts/microsporidia_mb_for_malaria_vector_control/Mosquito_microbiota.webp" class="img-fluid quarto-figure quarto-figure-left figure-img"></a></p>
+<p><a href="https://www.frontiersin.org/research-topics/13719/microbiota-a-consequential-third-wheel-in-the-mosquito-pathogen-relationship/magazine"><img src="https://israel-ggb.github.io/posts/students-malaria-awareness-campus-benin/Mosquito_microbiota.webp" class="img-fluid quarto-figure quarto-figure-left figure-img"></a></p>
 </figure>
 </div>
 <figcaption>Source: Gendrin et al., 2022</figcaption>
 </figure>
 </div>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<section id="from-a-bachelors-thesis-to-a-public-health-issue." class="level2">
+<h2 class="anchored" data-anchor-id="from-a-bachelors-thesis-to-a-public-health-issue.">From a Bachelor’s thesis to a public health issue.</h2>
+<p>June 2022, we had just completed 6-month internship on our Bachelor’s research projects in medical entomology. After defending our thesis, we realized that we had all cited the same alarming statistic: “249 million cases of malaria in 2022 and 610,000 deaths.” The question our advisor, Dr.&nbsp;Filemon TOKPONNON, asked me was simple: “Right now, what do you think you can do as students to fight malaria in your communities?”</p>
+</section>
+<section id="an-idea-human-resources-but-no-funding." class="level2">
+<h2 class="anchored" data-anchor-id="an-idea-human-resources-but-no-funding.">An Idea, Human Resources, but No Funding.</h2>
+<p>After gathering a group of classmates and discussing the matter with them, we decided to take advantage of World Malaria Day in 2023 to organize a public science outreach event on malaria, the leading cause of mortality and morbidity in Benin. A timeline and terms of reference were drafted.However, we very quickly ran into a roadblock: there were no financial resources available to cover the budget of the event venue, catering for participants, and the design of communication materials.</p>
+</section>
+<section id="internal-fundraising-and-support-from-volunteer-faculty-members-and-companies." class="level2">
+<h2 class="anchored" data-anchor-id="internal-fundraising-and-support-from-volunteer-faculty-members-and-companies.">Internal fundraising and support from volunteer faculty members and companies.</h2>
+<p><br>
+Faced with this challenge, we decided to send funding requests to several companies and faculty members in our biology department. This initial setback thus provided us with an opportunity to highlight corporate social responsibility in funding public health initiatives—a concept that is still not widely developed here in Benin. Contributions from faculty members, voluntary donations from members of our association—which we decided to name “Campus Palu”—donations of water packs from a company, and support from a photography firm enabled us to mobilize more than a hundred students.</p>
+</section>
+<section id="a-sustainable-initiative-that-mobilizes-students-from-various-academic-disciplines." class="level2">
+<h2 class="anchored" data-anchor-id="a-sustainable-initiative-that-mobilizes-students-from-various-academic-disciplines.">&nbsp; A sustainable initiative that mobilizes students from various academic disciplines.</h2>
+<p><br>
+Today, “Campus Palu, Parasites &amp; Vectors” has four years and mobilizes several hundred students from the University of Abomey-Calavi each year. We incorporate an interdisciplinary approach into our activities by enabling students in the biological sciences and the humanities to understand how they can contribute to the fight against vector-borne diseases.<br>
+<br>
+Continuing to build on the momentum of student activism and the training of tomorrow’s leaders on public health issues, the association remains open to any partnership that would enable it to implement activities with an even greater impact.&nbsp;&nbsp;</p>
 
 
+</section>
 
  ]]></description>
   <category>news</category>
-  <guid>https://israel-ggb.github.io/posts/microsporidia_mb_for_malaria_vector_control/</guid>
-  <pubDate>Thu, 27 Aug 2026 22:00:00 GMT</pubDate>
+  <guid>https://israel-ggb.github.io/posts/students-malaria-awareness-campus-benin/</guid>
+  <pubDate>Sat, 05 Sep 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
