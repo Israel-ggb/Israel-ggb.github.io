@@ -7,7 +7,7 @@ categories: [news]
 
 As students or ordinary citizens, we may often wonder what contribution we can make to solving health problems that far exceed our sphere of influence. In this article, I discuss how a group of students from a biology department was able to turn a question into action within their university
 
-[![Source: Gendrin et al., 2022](Mosquito_microbiota.webp){fig-align="left"}](https://www.frontiersin.org/research-topics/13719/microbiota-a-consequential-third-wheel-in-the-mosquito-pathogen-relationship/magazine)
+![Logo of CPPV_Students photo.](Logo_Students%20photo.jpg){fig-align="left"}
 
 ## From a Bachelor’s thesis to a public health issue.
 
@@ -22,9 +22,11 @@ After gathering a group of classmates and discussing the matter with them, we de
 \
 Faced with this challenge, we decided to send funding requests to several companies and faculty members in our biology department. This initial setback thus provided us with an opportunity to highlight corporate social responsibility in funding public health initiatives—a concept that is still not widely developed here in Benin. Contributions from faculty members, voluntary donations from members of our association—which we decided to name “Campus Palu”—donations of water packs from a company, and support from a photography firm enabled us to mobilize more than a hundred students.
 
-##   A sustainable initiative that mobilizes students from various academic disciplines.
+![Mosquito breeding site identification on the campus.](Mosquito%20breeding%20site%20identification%20on%20the%20campus.jpg){width="667"}
+
+## A sustainable initiative that mobilizes students from various academic disciplines.
 
 \
-Today, “Campus Palu, Parasites & Vectors” has four years and mobilizes several hundred students from the University of Abomey-Calavi each year. We incorporate an interdisciplinary approach into our activities by enabling students in the biological sciences and the humanities to understand how they can contribute to the fight against vector-borne diseases.\
-\
+Today, “Campus Palu, Parasites & Vectors” (CPPV) has four years and mobilizes several hundred students from the University of Abomey-Calavi each year. We incorporate an interdisciplinary approach into our activities by enabling students in the biological sciences and the humanities to understand how they can contribute to the fight against vector-borne diseases.
+
 Continuing to build on the momentum of student activism and the training of tomorrow’s leaders on public health issues, the association remains open to any partnership that would enable it to implement activities with an even greater impact.  
