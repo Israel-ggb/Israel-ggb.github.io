@@ -1,1 +1,1 @@
-{{< embedpdf "myResumeIsrael.pdf" >}}
+{{< embedpdf "resume/myResumeIsrael.pdf" >}}
